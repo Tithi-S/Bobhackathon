@@ -1,0 +1,7 @@
+crewai
+crewai-tools
+requests
+flask
+beautifulsoup4
+tqdm
+tenacity
